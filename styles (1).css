@@ -1,0 +1,87 @@
+body {
+    color: rgb(189, 114, 22);
+    background: burlywood;
+    margin: 0px;
+    /* tira */
+}
+
+header {
+    border-bottom: solid 2px rgb(22, 22, 22);
+    margin: 20px;
+    padding: 10px;
+    padding-bottom: 25px;
+    padding-left: 40%;
+    font-size: 40px;
+    color: black
+}
+
+.chamada {
+    background: rgb(189, 114, 22);
+    display: flex;
+    justify-content: center;
+    color: burlywood;
+    padding: 20px;
+    padding-bottom: 15px;
+    /* 4px */
+}
+
+div {
+    margin-right: 5%;
+}
+
+h2 {
+    font-size: 20px;
+    padding-top: 5px;
+    color: rgb(28, 27, 27);
+    font-family: "Quicksand", sans-serif;
+    margin-left: 13px;
+}
+
+p {
+    color: black;
+    margin-bottom: 160px;
+    /* 32px */ /*top*/
+    padding-left: 10px;
+}
+
+h1 {
+    font-family: "Inter", sans-serif;
+    font-size: 30px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+
+img {
+    height: 100px;
+    opacity: 0,5;
+}
+
+.videos {
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    gap: 5px;
+}
+
+.barra-de-videos {
+    margin: 20px;
+    padding: 20px;
+    
+}
+
+.barra-de-videos img {
+    opacity: 0,5;
+}
+
+.barra-de-videos img:hover {
+    opacity: 2.0;
+}
+
+h3 {
+    margin: 10px;
+    font-size: 25px;
+    font-family: "Inter", sans-serif;
+    
+}
